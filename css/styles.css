@@ -19,12 +19,11 @@ header.header {
 }
 header.header img { 
     width: 150px;
-
 }
 section.top-page {
     background: url('../images/bg.jpg');
     background-size: cover;
-    height: 110vh;
+    height: 100vh;
     padding: 25px;
 }
 .landing-page {
@@ -35,9 +34,10 @@ section.top-page {
 .big-title {
     color: white;
     font-size: 80px;
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Abril FatFace', cursive;
     font-weight: 100;
-    width: 40%;
+    /*padding: 20px 50px;*/
+    width: 50%;
 }
 .scroll-down {
     color: white;
